@@ -2,7 +2,7 @@ A Demo of QUIC_Attack.
 
 Based on aioquic 0.9.20 & lsquic 3.0.4.
 
-For both 2 quic version, please change the cid length config to 20.
+Please change the cid length config to 20.
 For aioquic: src/aioquic/quic/configuration.py
 Change "connection_id_length" to 20 and in "class QuicConfiguration" add "QuicProtocolVersion.VNRF".
 For lsquic: lsquic/include/lsquic.h
