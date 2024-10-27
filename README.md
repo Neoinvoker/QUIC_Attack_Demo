@@ -3,6 +3,10 @@ A Demo of QUIC_Attack.
 Based on aioquic 0.9.20 & lsquic 3.0.4.
 
 ![Image](https://github.com/Neoinvoker/QUIC_Attack_Demo/blob/main/Wireshark_Protocol.png?raw=true)
+
+![Image](https://github.com/Neoinvoker/QUIC_Attack_Demo/blob/main/Migrate_Wireshark.png?raw=true)
+
+
 ---------------------------------------------------------------------------------------------------------
 
 **Please change the cid length config to 20.**
