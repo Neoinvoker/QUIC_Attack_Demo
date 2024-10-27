@@ -2,8 +2,7 @@ A Demo of QUIC_Attack.
 
 Based on aioquic 0.9.20 & lsquic 3.0.4.
 
-![Image]([https://raw.githubusercontent.com/hongmaju/light7Local/master/img/productShow/20170518152848.png](https://github.com/Neoinvoker/QUIC_Attack_Demo/blob/main/Migrate_Wireshark.png))
-![Image]([https://raw.githubusercontent.com/hongmaju/light7Local/master/img/productShow/20170518152848.png](https://github.com/Neoinvoker/QUIC_Attack_Demo/blob/main/Wireshark_Protocol.png))
+![Image](https://github.com/Neoinvoker/QUIC_Attack_Demo/blob/main/Wireshark_Protocol.png?raw=true)
 ---------------------------------------------------------------------------------------------------------
 
 **Please change the cid length config to 20.**
